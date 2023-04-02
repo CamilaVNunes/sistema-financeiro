@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QiMIGaRtd15jwb+2QFvFS3BfzSzJUszO2bkmA8xFm1M=",
+  "Source": "SistemaFinanceiro.WebAPI",
+  "BasePath": "_content/SistemaFinanceiro.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
