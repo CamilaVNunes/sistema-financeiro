@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bu5McVwzTrp7PBLmupmy9rzF45WTsyWB6XxsJynzzHtlOCKVVY/J8MIhCwz9+VfD0AAELQz25/lDHveNMcmwuQ==",
+  "success": true,
+  "projectFilePath": "C:\\camila\\reposCamila\\sistema-financeiro\\SistemaFiananceiro\\SistemaFinanceiro.WebAPI\\SistemaFinanceiro.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Camila\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
