@@ -1,0 +1,12 @@
+C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Infrastructure\bin\Debug\net6.0\SistemaFinanceiro.Infrastructure.deps.json
+C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Infrastructure\bin\Debug\net6.0\SistemaFinanceiro.Infrastructure.dll
+C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Infrastructure\bin\Debug\net6.0\SistemaFinanceiro.Infrastructure.pdb
+C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Infrastructure\obj\Debug\net6.0\SistemaFinanceiro.Infrastructure.csproj.AssemblyReference.cache
+C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Infrastructure\obj\Debug\net6.0\SistemaFinanceiro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Infrastructure\obj\Debug\net6.0\SistemaFinanceiro.Infrastructure.AssemblyInfoInputs.cache
+C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Infrastructure\obj\Debug\net6.0\SistemaFinanceiro.Infrastructure.AssemblyInfo.cs
+C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Infrastructure\obj\Debug\net6.0\SistemaFinanceiro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Infrastructure\obj\Debug\net6.0\SistemaFinanceiro.Infrastructure.dll
+C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Infrastructure\obj\Debug\net6.0\refint\SistemaFinanceiro.Infrastructure.dll
+C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Infrastructure\obj\Debug\net6.0\SistemaFinanceiro.Infrastructure.pdb
+C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Infrastructure\obj\Debug\net6.0\ref\SistemaFinanceiro.Infrastructure.dll
