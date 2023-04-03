@@ -13,6 +13,6 @@ namespace SistemaFinanceiro.Entities.Entities
         [ForeignKey("SistemaFinanceiro")]
         [Column(Order = 1)]
         public int IdSistema { get; set; }
-        public virtual SistemaFinanceiro SistemaFinanceiro { get; set; }
+        public virtual Financeiro SistemaFinanceiro { get; set; }
     }
 }

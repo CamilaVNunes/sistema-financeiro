@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace SistemaFinanceiro.Entities.Entities
 {
     [Table("SistemaFinanceiro")]
-    public class SistemaFinanceiro : Base
+    public class Financeiro : Base
     {
         public int Mes { get; set; }
 
