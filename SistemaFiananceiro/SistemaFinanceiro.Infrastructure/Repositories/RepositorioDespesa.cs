@@ -11,6 +11,14 @@ namespace SistemaFinanceiro.Infrastructure.Repositories
 {
     public class RepositorioDespesa : RepositoryGenerics<Despesa>, IDespesa
     {
+        public Task<IList<Despesa>> ListaDespesaUsuario(string emailUsuario)
+        {
+            throw new NotImplementedException();
+        }
 
+        public Task<IList<Despesa>> ListaDespesaUsuarioNaoPagasMesesAnteriores(string emailUsuario)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

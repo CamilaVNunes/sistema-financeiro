@@ -1,8 +1,13 @@
 
 using Microsoft.EntityFrameworkCore;
 using SistemaFinanceiro.Domain.Interfaces.Generics;
+using SistemaFinanceiro.Domain.Interfaces.ICategoria;
+using SistemaFinanceiro.Domain.Interfaces.IDespesa;
+using SistemaFinanceiro.Domain.Interfaces.ISistemaFinanceiro;
+using SistemaFinanceiro.Domain.Interfaces.IUsuarioSistemaFinanceiro;
 using SistemaFinanceiro.Entities.Entities;
 using SistemaFinanceiro.Infrastructure.Config;
+using SistemaFinanceiro.Infrastructure.Repositories;
 using SistemaFinanceiro.Infrastructure.Repositories.Generics;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -21,6 +26,10 @@ builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.R
     .AddEntityFrameworkStores<ContextBase>();
 
 builder.Services.AddSingleton(typeof(IGeneric<>), typeof(RepositoryGenerics<>));
+builder.Services.AddSingleton<ICategoria, RepositorioCategoria>();
+builder.Services.AddSingleton<IDespesa, RepositorioDespesa>();
+builder.Services.AddSingleton<ISistemaFinanceiro, RepositorioSistemaFinanceiro>();
+builder.Services.AddSingleton<IUsuarioSistemaFinanceiro, RepositorioUsuarioSistemaFinanceiro>();
 
 var app = builder.Build();
 

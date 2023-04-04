@@ -10,5 +10,7 @@ namespace SistemaFinanceiro.Domain.Interfaces.IDespesa
 {
     public interface IDespesa : IGeneric<Despesa>
     {
+        Task<IList<Despesa>> ListaDespesaUsuario(string emailUsuario);
+        Task<IList<Despesa>> ListaDespesaUsuarioNaoPagasMesesAnteriores(string emailUsuario);
     }
 }

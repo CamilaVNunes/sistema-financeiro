@@ -10,6 +10,6 @@ namespace SistemaFinanceiro.Domain.Interfaces.ICategoria
 {
     public interface ICategoria : IGeneric<Categoria>
     {
-
+        Task<IList<Categoria>> ListarCategoriasUsuario(string emailUsuario);
     }
 }

@@ -10,5 +10,6 @@ namespace SistemaFinanceiro.Domain.Interfaces.ISistemaFinanceiro
 {
     public interface ISistemaFinanceiro : IGeneric<Financeiro>
     {
+        Task<IList<Financeiro>> ListaSistemasUsuario(string emailUsuario);
     }
 }

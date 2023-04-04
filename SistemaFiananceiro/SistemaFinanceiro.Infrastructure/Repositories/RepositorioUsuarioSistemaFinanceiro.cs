@@ -11,5 +11,19 @@ namespace SistemaFinanceiro.Infrastructure.Repositories
 {
     public class RepositorioUsuarioSistemaFinanceiro : RepositoryGenerics<UsuarioSistemaFinanceiro>, IUsuarioSistemaFinanceiro
     {
+        public Task<IList<UsuarioSistemaFinanceiro>> ListarUsuariosSistema(int idSistema)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<UsuarioSistemaFinanceiro> ObeterUsuarioSistemaPorEmail(string emailUsuario)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task RemoverUsuarioSistema(List<UsuarioSistemaFinanceiro> usuarios)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

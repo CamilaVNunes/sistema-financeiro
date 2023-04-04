@@ -6,6 +6,9 @@ namespace SistemaFinanceiro.Infrastructure.Repositories
 {
     public class RepositorioCategoria : RepositoryGenerics<Categoria>, ICategoria
     {
-
+        public Task<IList<Categoria>> ListarCategoriasUsuario(string emailUsuario)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
