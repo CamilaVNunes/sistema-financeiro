@@ -31,7 +31,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\camila\\reposCamila\\sistema-financeiro\\SistemaFiananceiro\\SistemaFinanceiro.Entities\\SistemaFinanceiro.Entities.csproj": {
+                "projectPath": "C:\\camila\\reposCamila\\sistema-financeiro\\SistemaFiananceiro\\SistemaFinanceiro.Entities\\SistemaFinanceiro.Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
