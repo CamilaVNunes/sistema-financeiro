@@ -10,3 +10,15 @@ C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.He
 C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\obj\Debug\net6.0\refint\SistemaFinanceiro.Helpers.dll
 C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\obj\Debug\net6.0\SistemaFinanceiro.Helpers.pdb
 C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\obj\Debug\net6.0\ref\SistemaFinanceiro.Helpers.dll
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\bin\Debug\net6.0\SistemaFinanceiro.Helpers.deps.json
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\bin\Debug\net6.0\SistemaFinanceiro.Helpers.dll
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\bin\Debug\net6.0\SistemaFinanceiro.Helpers.pdb
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\obj\Debug\net6.0\SistemaFinanceiro.Helpers.csproj.AssemblyReference.cache
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\obj\Debug\net6.0\SistemaFinanceiro.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\obj\Debug\net6.0\SistemaFinanceiro.Helpers.AssemblyInfoInputs.cache
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\obj\Debug\net6.0\SistemaFinanceiro.Helpers.AssemblyInfo.cs
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\obj\Debug\net6.0\SistemaFinanceiro.Helpers.csproj.CoreCompileInputs.cache
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\obj\Debug\net6.0\SistemaFinanceiro.Helpers.dll
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\obj\Debug\net6.0\refint\SistemaFinanceiro.Helpers.dll
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\obj\Debug\net6.0\SistemaFinanceiro.Helpers.pdb
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Helpers\obj\Debug\net6.0\ref\SistemaFinanceiro.Helpers.dll

@@ -10,3 +10,15 @@ C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.En
 C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\obj\Debug\net6.0\refint\SistemaFinanceiro.Entities.dll
 C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\obj\Debug\net6.0\SistemaFinanceiro.Entities.pdb
 C:\camila\reposCamila\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\obj\Debug\net6.0\ref\SistemaFinanceiro.Entities.dll
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\bin\Debug\net6.0\SistemaFinanceiro.Entities.deps.json
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\bin\Debug\net6.0\SistemaFinanceiro.Entities.dll
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\bin\Debug\net6.0\SistemaFinanceiro.Entities.pdb
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\obj\Debug\net6.0\SistemaFinanceiro.Entities.csproj.AssemblyReference.cache
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\obj\Debug\net6.0\SistemaFinanceiro.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\obj\Debug\net6.0\SistemaFinanceiro.Entities.AssemblyInfoInputs.cache
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\obj\Debug\net6.0\SistemaFinanceiro.Entities.AssemblyInfo.cs
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\obj\Debug\net6.0\SistemaFinanceiro.Entities.csproj.CoreCompileInputs.cache
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\obj\Debug\net6.0\SistemaFinanceiro.Entities.dll
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\obj\Debug\net6.0\refint\SistemaFinanceiro.Entities.dll
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\obj\Debug\net6.0\SistemaFinanceiro.Entities.pdb
+E:\sistema-financeiro\SistemaFiananceiro\SistemaFinanceiro.Entities\obj\Debug\net6.0\ref\SistemaFinanceiro.Entities.dll
