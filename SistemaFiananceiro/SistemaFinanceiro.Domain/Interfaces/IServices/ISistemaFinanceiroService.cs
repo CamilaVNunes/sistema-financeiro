@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SistemaFinanceiro.Entities.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,8 @@ namespace SistemaFinanceiro.Domain.Interfaces.IServicos
 {
     public interface ISistemaFinanceiroService
     {
+        Task AdicionarSistemaFinanceiro(Financeiro sistemaFinanceiro);
+
+        Task AtualizarSistemaFinanceiro(Financeiro sistemaFinanceiro);
     }
 }

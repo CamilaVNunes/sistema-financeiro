@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SistemaFinanceiro.Entities.Entities
 {
-    public class Despesa
+    public class Despesa : Base
     {
         public decimal Valor { get; set; }
         public int Mes { get; set; }
